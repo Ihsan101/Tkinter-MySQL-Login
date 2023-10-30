@@ -1,6 +1,4 @@
-﻿**COMPUTER SCIENCE PROJECT DOCUMENTATION**
-
-![](Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.001.png)
+﻿![](Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.001.png)
 
 |![Raised hand with solid fill]|<p>*The given project documentation goes through the overview of the Python program created by me to provide a login portal for users to easily Sign up, sign in and interact with the GUI of the program, while storing all details into a MySQL database.* </p><p></p>|
 | - | :- |
@@ -65,37 +63,26 @@ Description automatically generated](Aspose.Words.5f9428f4-9848-452a-8362-ed691e
 
 
 
-![A white background with black text
-
-Description automatically generated](Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.007.png)
+![A white background with black text](Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.007.png)
 
 
 
 
 
-![A screenshot of a message
-
-Description automatically generated](Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.008.png)	
+![A screenshot of a message](Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.008.png)	
 
 
 
 
-![A screenshot of a computer screen
-
-Description automatically generated](Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.009.png)
+![A screenshot of a computer screen](Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.009.png)
 
 
 
 
 
-![A white background with black text
-
-Description automatically generated](Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.010.png)
+![A white background with black text](Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.010.png)
 
 
 
-
-
-**2 **|** Page									   Login Portal
 
 [Raised hand with solid fill]: Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.002.png
