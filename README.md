@@ -1,4 +1,4 @@
-﻿![](Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.001.png)
+
 
 |![Raised hand with solid fill]|<p>*The given project documentation goes through the overview of the Python program created by me to provide a login portal for users to easily Sign up, sign in and interact with the GUI of the program, while storing all details into a MySQL database.* </p><p></p>|
 | - | :- |
@@ -51,15 +51,13 @@ Finally, I incorporated tkinter to provide a simple but user-friendly GUI so tha
 |![Raised hand with solid fill]|*Flowchart*|
 | :-: | :- |
 
-**OUTPUT**
+# **OUTPUT**
+|![Raised hand with solid fill]|*Given below are screenshots of the program running properly.* |
+| :-: | :- |
 ![](Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.003.png)
 ![A screenshot of a login screen](Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.004.png)
 ![A screenshot of a login form](Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.005.png)
 ![](Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.006.png)
-
-|![Raised hand with solid fill]|*Given below are screenshots of the program running properly.* |
-| :-: | :- |
-
 
 
 ![A white background with black text](Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.007.png)
