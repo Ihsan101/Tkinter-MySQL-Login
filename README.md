@@ -51,8 +51,11 @@ Finally, I incorporated tkinter to provide a simple but user-friendly GUI so tha
 |![Raised hand with solid fill]|*Flowchart*|
 | :-: | :- |
 
+**OUTPUT**
 ![](Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.003.png)
-# ![A screenshot of a login screen](Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.004.png)![A screenshot of a login form](Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.005.png)![](Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.006.png)**OUTPUT**
+![A screenshot of a login screen](Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.004.png)
+![A screenshot of a login form](Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.005.png)
+![](Aspose.Words.5f9428f4-9848-452a-8362-ed691ebbebf9.006.png)
 
 |![Raised hand with solid fill]|*Given below are screenshots of the program running properly.* |
 | :-: | :- |
